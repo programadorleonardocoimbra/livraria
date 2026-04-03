@@ -1,4 +1,6 @@
-class cliente extends pessoa {
+package BaseDeDados;
+
+public class cliente extends pessoa {
 
     //Herança
 

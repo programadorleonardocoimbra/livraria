@@ -1,3 +1,5 @@
+package BaseDeDados;
+
 abstract class pessoa {
 
     private String nome;

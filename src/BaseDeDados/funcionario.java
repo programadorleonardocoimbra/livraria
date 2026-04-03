@@ -1,6 +1,6 @@
+package BaseDeDados;
 
-
-class funcionario extends pessoa{
+public class funcionario extends pessoa{
 
     private String cargo;
 
